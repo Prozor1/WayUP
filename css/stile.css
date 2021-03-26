@@ -11,7 +11,19 @@
  }
  
  h2{
-    background-color: rgb(13, 224, 101); 
+    background-color: rgb(13, 224, 101);
+    box-sizing: border-box; 
+    padding: 10px 5px;
+ }
+
+ .margin{
+     padding: 50px 20px;
+     box-sizing: border-box;
+
+ }
+
+ .pad {
+     margin-left: 10em;
  }
 
  .red{
@@ -25,5 +37,3 @@
    li{
        border: 1px solid;
    }
-
-
